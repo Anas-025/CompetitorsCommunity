@@ -158,6 +158,7 @@ export default function MiniDrawer() {
           backgroundColor: "white",
           boxShadow: "none!important",
           color: "black",
+          borderBottom: "1px solid rgba(0, 0, 0, 0.12)"
         }}
         position="fixed"
         open={open}
