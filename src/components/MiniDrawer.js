@@ -157,7 +157,7 @@ export default function MiniDrawer() {
         sx={{
           backgroundColor: "white",
           boxShadow: "none!important",
-          color: "black",
+          color: "pink",
           borderBottom: "1px solid rgba(0, 0, 0, 0.12)"
         }}
         position="fixed"
